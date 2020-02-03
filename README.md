@@ -5,6 +5,7 @@
 
 
 
+
 # 경력  
  ### 이퍼블릭  
   * 2018.11 ~ 현재  
@@ -13,15 +14,24 @@
 
 
 
+
 # 프로젝트  
 
 * ### English Now! (개인)  
 
+   <div>  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/73625893-031ec200-468a-11ea-86a4-25171df0d099.jpg">  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/73625908-1467ce80-468a-11ea-8576-8a67f15084e6.jpg">  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/73625917-1f226380-468a-11ea-8c16-5257153f88a1.jpg">   
+   </div>
+   
+   
   > * 프로젝트 진행일: 20.01 ~ 20.01  
   > * 소속 회사명: 이퍼블릭  
   > * 프로젝트 유형: 영상 (하이브리드)  
   > * 사용 기술: WebKit  
   > * 앱 : https://itunes.apple.com/app/id1496736405?mt=8  
+
 
 
 
@@ -44,6 +54,7 @@
 
 
 
+
 * ### Hello Library (개인)  
 
 
@@ -62,6 +73,7 @@
   > * 프로젝트 유형: 영상  
   > * 사용 기술: AVKit  
   > * 앱 : https://itunes.apple.com/app/id1477165083?mt=8    
+
 
 
 
