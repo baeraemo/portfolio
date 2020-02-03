@@ -5,6 +5,8 @@
 
 
 
+<br>
+</br>  
 
 # 경력  
  ### 이퍼블릭  
@@ -14,6 +16,8 @@
 
 
 
+<br>
+</br>  
 
 # 프로젝트  
 
@@ -35,6 +39,9 @@
 
 
 
+<br>
+</br>  
+
 * ### SaladEnglish  
 
 
@@ -54,6 +61,9 @@
 
 
 
+
+<br>
+</br>  
 
 * ### Hello Library    
 
@@ -77,6 +87,9 @@
 
 
 
+<br>
+</br>  
+
 * ### The Best Grammar, Plus    
 
 
@@ -98,6 +111,9 @@
 
 
 
+<br>
+</br>  
+
 * ### CampusConnection    
 
 
@@ -115,6 +131,9 @@
   > * 앱 : https://itunes.apple.com/app/id1453350282?mt=8    
 
 
+
+<br>
+</br>  
 
 * ### Ready Action Classic, Parody    
 
@@ -137,6 +156,9 @@
 
 
 
+<br>
+</br>  
+
 * ### 오늘도 출근      
   > * 프로젝트 진행일: 18.5.28 ~ 18.7.20  
   > * 소속 회사명: 개인  
@@ -145,6 +167,9 @@
   > * 앱 : https://youtu.be/Uiogl_a42-k  
 
 
+
+<br>
+</br>  
 
 * ### OverEATS (팀 프로젝트)    
   > * 프로젝트 진행일: 18.4.2 ~ 18.4.27  
