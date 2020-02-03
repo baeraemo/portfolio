@@ -23,7 +23,7 @@
    <img width="200" src="https://user-images.githubusercontent.com/35207324/73625893-031ec200-468a-11ea-86a4-25171df0d099.jpg">  
    <img width="200" src="https://user-images.githubusercontent.com/35207324/73625908-1467ce80-468a-11ea-8576-8a67f15084e6.jpg">  
    <img width="200" src="https://user-images.githubusercontent.com/35207324/73625917-1f226380-468a-11ea-8c16-5257153f88a1.jpg">   
-   </div>
+   </div>  
    
    
   > * 프로젝트 진행일: 20.01 ~ 20.01  
@@ -43,7 +43,7 @@
    <img width="200" src="https://user-images.githubusercontent.com/35207324/73621441-6e13cd00-4679-11ea-90e3-ae319f055fd2.jpeg">  
    <img width="200" src="https://user-images.githubusercontent.com/35207324/73621453-79ff8f00-4679-11ea-99b4-6cb70ae1002a.jpeg">  
    <img width="200" src="https://user-images.githubusercontent.com/35207324/73621462-8683e780-4679-11ea-8d4c-c281e24b8271.jpeg">  
-   </div>
+   </div>  
 
 
   > * 프로젝트 진행일: 18.12 ~ 19.12  
@@ -65,7 +65,7 @@
    <img width="200" src="https://user-images.githubusercontent.com/35207324/73625706-4c224680-4689-11ea-9aaa-e536605e6722.jpg">  
    <img width="200" src="https://user-images.githubusercontent.com/35207324/73625737-66f4bb00-4689-11ea-8c54-8e3f4a20f15a.jpg">  
    <img width="200" src="https://user-images.githubusercontent.com/35207324/73625721-5b08f900-4689-11ea-8aba-bce8a0fd3d8d.jpg">  
-   </div>
+   </div>  
    
    
   > * 프로젝트 진행일: 19.07 ~ 19.08  
@@ -79,6 +79,15 @@
 
 * ### The Best Grammar, Plus (개인)  
 
+
+   <div>  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/73626045-bf788800-468a-11ea-9178-b0b247fb2162.jpg">  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/73626060-cbfce080-468a-11ea-8602-fe21167223f2.jpg">  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/73626069-d7500c00-468a-11ea-85a5-933ddc4accbe.jpg">  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/73626076-e20aa100-468a-11ea-827d-8815b3eb47a2.jpg">  
+   </div>  
+   
+   
   > * 프로젝트 진행일: 19.03 ~ 19.04  
   > * 소속 회사명: 이퍼블릭  
   > * 프로젝트 유형: 영상(네이티브, 하이브리드)  
