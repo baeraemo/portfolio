@@ -17,7 +17,7 @@
 
 # 프로젝트  
 
-* ### English Now! (개인)  
+* ### English Now!    
 
    <div>  
    <img width="200" src="https://user-images.githubusercontent.com/35207324/73625893-031ec200-468a-11ea-86a4-25171df0d099.jpg">  
@@ -30,12 +30,12 @@
   > * 소속 회사명: 이퍼블릭  
   > * 프로젝트 유형: 영상 (하이브리드)  
   > * 사용 기술: WebKit  
-  > * 앱 : https://itunes.apple.com/app/id1496736405?mt=8  
+  > * 앱 : https://itunes.apple.com/app/id1496736405?mt=8      
 
 
 
 
-* ### SaladEnglish (개인)
+* ### SaladEnglish  
 
 
    <div>  
@@ -55,7 +55,7 @@
 
 
 
-* ### Hello Library (개인)  
+* ### Hello Library    
 
 
 
@@ -77,7 +77,7 @@
 
 
 
-* ### The Best Grammar, Plus (개인)  
+* ### The Best Grammar, Plus    
 
 
    <div>  
@@ -98,7 +98,7 @@
 
 
 
-* ### CampusConnection(개인)  
+* ### CampusConnection    
 
 
    <div>  
@@ -116,7 +116,7 @@
 
 
 
-* ### Ready Action Classic, Parody (개인)  
+* ### Ready Action Classic, Parody    
 
 
    <div>  
@@ -137,7 +137,7 @@
 
 
 
-* ### 오늘도 출근 (개인)  
+* ### 오늘도 출근      
   > * 프로젝트 진행일: 18.5.28 ~ 18.7.20  
   > * 소속 회사명: 개인  
   > * 프로젝트 유형: 날씨 + 알람  
@@ -146,7 +146,7 @@
 
 
 
-* ### OverEATS (팀 프로젝트)  
+* ### OverEATS (팀 프로젝트)    
   > * 프로젝트 진행일: 18.4.2 ~ 18.4.27  
   > * 소속 회사명: 패스트 캠퍼스  
   > * 프로젝트 유형: Copy App (회원가입, 로그인 담당)  
