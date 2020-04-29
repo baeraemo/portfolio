@@ -10,7 +10,7 @@
 
 # 경력  
  ### 이퍼블릭  
-  * 2018.11 ~ 현재  
+  * 2018.11 ~ 2020.3  
  ### ATI  
   * 2018.08 ~ 2018.10  
 
@@ -146,14 +146,14 @@
    </div>  
    
    
-  > * 프로젝트 진행일: 18.11 ~ 18.12  
+  > * 프로젝트 진행일: 18.11 ~ 18.12 (2020.02 ~ 2020.03 통합 앱으로 리메이크)  
   > * 소속 회사명: 이퍼블릭  
   > * 프로젝트 유형: 영상  
   > * 사용 기술: Alamofire, SwiftGifOrigin, SDWebImage  
   > * 앱    
       https://itunes.apple.com/app/id1446709907?mt=8 (Classic)  
       https://itunes.apple.com/app/id1446819469?mt=8 (Parody)  
-
+ 
 
 
 <br>
