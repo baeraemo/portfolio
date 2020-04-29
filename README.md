@@ -1,5 +1,6 @@
 # 배태웅 Bae Taewoong  
   > * Swift  
+  > * Objective-c : 프로모션 추가, 앱 리메이크 참여 (기능 추가 및 버그 수정)
   > * e-mail : btw0118@gmail.com  
   > * Phone : 010-4123-8059  
 
