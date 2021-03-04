@@ -43,6 +43,28 @@
 
 <br>
 </br>  
+* ### 호비  
+
+
+   <div>  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/73621377-31e06c80-4679-11ea-9f12-e0c8a440e722.jpeg">  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/73621441-6e13cd00-4679-11ea-90e3-ae319f055fd2.jpeg">  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/73621453-79ff8f00-4679-11ea-99b4-6cb70ae1002a.jpeg">  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/73621462-8683e780-4679-11ea-8d4c-c281e24b8271.jpeg">  
+   </div>  
+
+
+  > * 프로젝트 진행일: 20.07 ~ 20.09  
+  > * 소속 회사명: RS기획 - 에듀챌린지  
+  > * 프로젝트 유형: 아이챌린지 학습 (마이 페이지, 챌린지 포토 담당)  
+  > * 사용 기술: Alamofire, WebKit, Kingfisher, Pagingview, FWSegmentedControl
+  > * 앱 : https://itunes.apple.com/app/id1530313910?mt=8  
+
+
+
+
+<br>
+</br>  
 
 * ### SaladEnglish  
 
