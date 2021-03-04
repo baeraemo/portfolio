@@ -23,7 +23,7 @@
 
 # 프로젝트  
 
-* ### English Now!    
+* ### 호비    
 
    <div>  
    <img width="200" src="https://user-images.githubusercontent.com/35207324/109934404-da934c80-7d0f-11eb-8cbd-89449a97eb06.png">  
@@ -33,18 +33,19 @@
    </div>  
    
    
-  > * 프로젝트 진행일: 20.01 ~ 20.01  
-  > * 소속 회사명: 이퍼블릭  
-  > * 프로젝트 유형: 영상 (하이브리드)  
-  > * 사용 기술: WebKit  
-  > * 앱 : https://itunes.apple.com/app/id1496736405?mt=8      
+  > * 프로젝트 진행일: 20.07 ~ 20.09  
+  > * 소속 회사명: RS기획 - 에듀챌린지  
+  > * 프로젝트 유형: 아이챌린지 학습 (마이 페이지, 챌린지 포토 담당)  
+  > * 사용 기술: Alamofire, WebKit, Kingfisher, Pagingview, FWSegmentedControl
+  > * 앱 : https://itunes.apple.com/app/id1530313910?mt=8   
 
 
 
 
 <br>
 </br>  
-* ### 호비  
+
+* ### English Now!
 
 
    <div>  
@@ -55,11 +56,12 @@
    </div>  
 
 
-  > * 프로젝트 진행일: 20.07 ~ 20.09  
-  > * 소속 회사명: RS기획 - 에듀챌린지  
-  > * 프로젝트 유형: 아이챌린지 학습 (마이 페이지, 챌린지 포토 담당)  
-  > * 사용 기술: Alamofire, WebKit, Kingfisher, Pagingview, FWSegmentedControl
-  > * 앱 : https://itunes.apple.com/app/id1530313910?mt=8  
+  > * 프로젝트 진행일: 20.01 ~ 20.01  
+  > * 소속 회사명: 이퍼블릭  
+  > * 프로젝트 유형: 영상 (하이브리드)  
+  > * 사용 기술: WebKit  
+  > * 앱 : https://itunes.apple.com/app/id1496736405?mt=8      
+
 
 
 
@@ -81,7 +83,7 @@
   > * 프로젝트 진행일: 18.12 ~ 19.12  
   > * 소속 회사명: 이퍼블릭  
   > * 프로젝트 유형: SNS로그인+인앱+영상  
-  > * 사용 기술: Firebase, Apns-fcm, SNS로그인, Alamofire, SwiftGifOrigin, Charts, Kingfisher, Avkit, Pagingview, CoreCharts,                    Storekit, ActiveLabel, Avofundation, YouTube-ios-helper  
+  > * 사용 기술: Firebase, Apns-fcm, SNS로그인, Alamofire, SwiftGifOrigin, Charts, Kingfisher, Avkit, Pagingview, CoreCharts, Storekit, ActiveLabel, Avofundation, YouTube-ios-helper  
   > * 앱 : https://itunes.apple.com/app/id1484598725?mt=8  
 
 
