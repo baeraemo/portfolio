@@ -26,9 +26,10 @@
 * ### English Now!    
 
    <div>  
-   <img width="200" src="https://user-images.githubusercontent.com/35207324/73625893-031ec200-468a-11ea-86a4-25171df0d099.jpg">  
-   <img width="200" src="https://user-images.githubusercontent.com/35207324/73625908-1467ce80-468a-11ea-8576-8a67f15084e6.jpg">  
-   <img width="200" src="https://user-images.githubusercontent.com/35207324/73625917-1f226380-468a-11ea-8c16-5257153f88a1.jpg">   
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/109934404-da934c80-7d0f-11eb-8cbd-89449a97eb06.png">  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/109934446-e717a500-7d0f-11eb-850b-4eecd3040ab4.png">  
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/109934453-e8e16880-7d0f-11eb-89b9-85c2ffe2c361.png">   
+   <img width="200" src="https://user-images.githubusercontent.com/35207324/109934460-ea129580-7d0f-11eb-923f-5addaeb8adde.png">   
    </div>  
    
    
