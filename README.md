@@ -29,7 +29,7 @@
    </div>  
    
    
-  > * 프로젝트 진행일: 20.08 ~ 21.03(FGI 테스트 진행 중)  
+  > * 프로젝트 진행일: 20.08 ~ 21.03(FGI 테스트 완료), ~ 현재(추가 기능 작업 중)  
   > * 소속 회사명: RS기획 - 롯데칠성
   > * 프로젝트 유형: 식단관리 앱
   > * 사용 기술: Alamofire, WebKit, Kingfisher, Pagingview, Charts, fcm, SNS로그인(카카오,애플,네이버,구글), FSCalendar, MKMagneticProgress, KFGradientProgressView, lottie-ios, FWSegmentedControl, IQKeyboardManagerSwift, JWTDecode, Firebase/DynamicLinks, Tagging
