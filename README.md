@@ -1,6 +1,7 @@
 # 배태웅 Bae Taewoong  
   > * Swift 
   > * Objective-c : 프로모션 추가, 앱 리메이크 참여 (기능 추가 및 버그 수정)
+  > * react-navite
   > * e-mail : btw0118@gmail.com  
   > * Phone : 010-4123-8059  
 
@@ -10,17 +11,31 @@
 </br>  
 
 # 경력  
+ ### 불스원
+  * 2021.08 ~ 현재
  ### RS 기획
-  * 2020.06 ~ 현재
+  * 2020.06 ~ 2021.07
  ### 이퍼블릭  
-  * 2018.11 ~ 2020.3  
- ### ATI  
-  * 2018.08 ~ 2018.10  
+  * 2018.11 ~ 2020.3 
 
 <br>
 </br>  
 
 # 프로젝트  
+
+* ### 와이즈비    
+   
+  > * 프로젝트 진행일: 21.11 ~ 현재 진행 중  
+  > * 소속 회사명: 불스원
+  > * 프로젝트 유형: 차량 관리 커머스 및 불스원 몰 통합 앱
+  > * 사용 언어: react-native
+  > * 앱 : 최종 업데이트 후 등록 예정
+  
+  
+
+
+  <br>
+</br>  
 
 * ### FILICOACH    
 
@@ -29,11 +44,11 @@
    </div>  
    
    
-  > * 프로젝트 진행일: 20.08 ~ 21.03(FGI 테스트 완료), ~ 현재(추가 기능 작업 중)  
+  > * 프로젝트 진행일: 20.08 ~ 21.03(FGI 테스트 완료)
   > * 소속 회사명: RS기획 - 롯데칠성
   > * 프로젝트 유형: 식단관리 앱
   > * 사용 기술: Alamofire, WebKit, Kingfisher, Pagingview, Charts, fcm, SNS로그인(카카오,애플,네이버,구글), FSCalendar, MKMagneticProgress, KFGradientProgressView, lottie-ios, FWSegmentedControl, IQKeyboardManagerSwift, JWTDecode, Firebase/DynamicLinks, Tagging
-  > * 앱 : 스토어 등록 후 업데이트 예정
+  > * 앱 : https://itunes.apple.com/app/id1598831595?mt=8
 
 
 
