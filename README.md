@@ -24,26 +24,38 @@
 # 프로젝트  
 
 * ### 와이즈비    
+
+    <div>
+    <img width="200" alt="wiseb_01" src="https://user-images.githubusercontent.com/35207324/178397833-b1401655-a5cf-4ff7-bc67-50036bf3f409.png">
+    <img width="200" alt="wiseb_02" src="https://user-images.githubusercontent.com/35207324/178397840-12d54ad3-21ba-47f3-aeef-666eeedcd774.png">
+    <img width="200" alt="wiseb_03" src="https://user-images.githubusercontent.com/35207324/178397873-1745aeca-90a5-4faa-bfbe-587864c8eb83.png">
+    <img width="200" alt="wiseb_04" src="https://user-images.githubusercontent.com/35207324/178397880-d3532972-24cd-44d4-8c61-607643cf0583.png">
+    <img width="200" alt="wiseb_05" src="https://user-images.githubusercontent.com/35207324/178397890-f7f8fbb7-90b3-47b7-988a-63b80e41b0c4.png">
+    <img width="200" alt="wiseb_06" src="https://user-images.githubusercontent.com/35207324/178397899-dc978425-16d6-45ab-92e3-5afcc6a1cc62.png">
+    <img width="200" alt="wiseb_07" src="https://user-images.githubusercontent.com/35207324/178397910-14c1dbcc-5f88-4e75-a93e-8c3d497bd386.png">
+    </div>
    
   > * 프로젝트 진행일: 21.11 ~ 22.07 (1.1.1 버전 업데이트) 추가 업데이트 진행 중
   > * 소속 회사명: 불스원
   > * 프로젝트 유형: 차량 관리 커머스 및 불스원 몰 통합 앱
   > * 사용 언어: react-native
-  > * 앱 : 최종 업데이트 후 등록 예정
+  > * 앱 :
+    android - https://play.google.com/store/apps/details?id=com.bullsone.wiseb
+    iOS - https://itunes.apple.com/app/id1581137094?mt=8
   
   
 
 
-  <br>
+<br>
 </br>  
 
 * ### FILICOACH    
 
     <div>
-    <img width="227" alt="fili_01" src="https://user-images.githubusercontent.com/35207324/178395079-18ee4efe-b04f-4d42-b2ed-6092470a5f16.png">
-    <img width="219" alt="fili_02" src="https://user-images.githubusercontent.com/35207324/178395087-4dc02fd1-5f2b-4905-9ed6-454d0120a96c.png">
-    <img width="228" alt="fili_03" src="https://user-images.githubusercontent.com/35207324/178394732-d6ad680e-9bcc-4209-a729-9c75bbb3ac97.png">
-    <img width="227" alt="fili_04" src="https://user-images.githubusercontent.com/35207324/178394789-1514067a-a537-41eb-a335-cde52ae8f4f2.png">
+    <img width="200" alt="fili_01" src="https://user-images.githubusercontent.com/35207324/178395079-18ee4efe-b04f-4d42-b2ed-6092470a5f16.png">
+    <img width="200" alt="fili_02" src="https://user-images.githubusercontent.com/35207324/178395087-4dc02fd1-5f2b-4905-9ed6-454d0120a96c.png">
+    <img width="200" alt="fili_03" src="https://user-images.githubusercontent.com/35207324/178394732-d6ad680e-9bcc-4209-a729-9c75bbb3ac97.png">
+    <img width="200" alt="fili_04" src="https://user-images.githubusercontent.com/35207324/178394789-1514067a-a537-41eb-a335-cde52ae8f4f2.png">
     </div>
 
   > * 프로젝트 진행일: 20.08 ~ 21.03(FGI 테스트 완료)
