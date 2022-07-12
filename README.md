@@ -38,7 +38,7 @@
   > * 프로젝트 진행일: 21.11 ~ 22.07 (1.1.1 버전 업데이트) 추가 업데이트 진행 중
   > * 소속 회사명: 불스원
   > * 프로젝트 유형: 차량 관리 커머스 및 불스원 몰 통합 앱
-  > * 사용 언어: react-native
+  > * 사용 기술: react-native / firebase, adjust, bottom-sheet, sns로그인(구글,카카오,네이버,페이스북,애플), community, calendars, paper, splash-screen, scrollable-tab-view-collapsible-header, webview, nmap ...
   > * 앱  
   > android : https://play.google.com/store/apps/details?id=com.bullsone.wiseb  
   > iOS : https://itunes.apple.com/app/id1581137094?mt=8  
