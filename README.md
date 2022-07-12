@@ -40,8 +40,8 @@
   > * 프로젝트 유형: 차량 관리 커머스 및 불스원 몰 통합 앱
   > * 사용 언어: react-native
   > * 앱
-  > - android : https://play.google.com/store/apps/details?id=com.bullsone.wiseb
-  > - iOS : https://itunes.apple.com/app/id1581137094?mt=8
+  > # android : https://play.google.com/store/apps/details?id=com.bullsone.wiseb
+  > # iOS : https://itunes.apple.com/app/id1581137094?mt=8
   
   
 
