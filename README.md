@@ -38,7 +38,12 @@
 </br>  
 
 * ### FILICOACH    
-
+   <div>
+    <img width="232" alt="fili_01" src="https://user-images.githubusercontent.com/35207324/178394629-a76fb8c7-b60f-4ae5-9453-6ab58d210a0e.png">
+    <img width="227" alt="fili_02" src="https://user-images.githubusercontent.com/35207324/178394704-6b444a13-69bd-48a2-9ebd-eb9db16fe225.png">
+    <img width="228" alt="fili_03" src="https://user-images.githubusercontent.com/35207324/178394732-d6ad680e-9bcc-4209-a729-9c75bbb3ac97.png">
+    <img width="227" alt="fili_04" src="https://user-images.githubusercontent.com/35207324/178394789-1514067a-a537-41eb-a335-cde52ae8f4f2.png">
+   </div>
 
   > * 프로젝트 진행일: 20.08 ~ 21.03(FGI 테스트 완료)
   > * 소속 회사명: RS기획 - 롯데칠성
