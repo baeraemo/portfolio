@@ -35,10 +35,10 @@
     <img width="200" alt="wiseb_07" src="https://user-images.githubusercontent.com/35207324/178397910-14c1dbcc-5f88-4e75-a93e-8c3d497bd386.png">
     </div>
    
-  > * 프로젝트 진행일: 21.11 ~ 22.07 (1.1.1 버전 업데이트) 추가 업데이트 진행 중
+  > * 프로젝트 진행일: 21.11 ~ 23.03 (1.4.1 업데이트 진행 중)
   > * 소속 회사명: 불스원
   > * 프로젝트 유형: 차량 관리 커머스 및 불스원 몰 통합 앱
-  > * 사용 기술: react-native / firebase, adjust, bottom-sheet, sns로그인(구글,카카오,네이버,페이스북,애플), community, calendars, paper, splash-screen, scrollable-tab-view-collapsible-header, webview, nmap ...
+  > * 사용 기술: react-native / firebase, adjust, bottom-sheet, sns로그인(구글,카카오,네이버,페이스북,애플), community, calendars, paper, splash-screen, scrollable-tab-view-collapsible-header, webview, nmap, react-native-version-check ...
   > * 앱  
   > android : https://play.google.com/store/apps/details?id=com.bullsone.wiseb  
   > iOS : https://itunes.apple.com/app/id1581137094?mt=8  
